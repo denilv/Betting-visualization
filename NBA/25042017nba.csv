@@ -1,0 +1,4 @@
+date,time,team,opponent_team,points,opponent_points,points_difference,spread,win_against_spread,spread_percentage_sbr,moneyline_team,moneyline_opponent,total_team,total_opponent,spread_percentage_sportsplays,spread_percentage_vegas
+20170425,7:00p,MEM,SAS,0,0,0,10,0,53,540,-606,780,469,43,97
+20170425,6:00p,OKC,HOU,0,0,0,7.5,0,52,285,-315,775,457,52,83
+20170425,8:30p,UTA,LAC,0,0,0,3.5,0,57,150,-160,560,493,53,33
