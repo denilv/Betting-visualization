@@ -1,0 +1,301 @@
+Date,Book,Team,Opp,Spread_Sportsplays,Spread_Vegas,Bet_Length,Bet_Type,Line_Move_Time,Over_Under,Line,Odds
+20170426,consensus,ATL,WAS,37,43,Full Game,POINTS SPREADS,04/24 11:22 PM,,+5.5,"-105 41%
+                        "
+20170426,consensus,WAS,ATL,63,57,Full Game,POINTS SPREADS,04/24 11:22 PM,,-5.5,"-105 59%
+                        "
+20170426,consensus,ATL,WAS,37,43,Full Game,POINTS SPREADS,04/26 10:27 AM,,+5.5,"-101 39%
+                        "
+20170426,consensus,WAS,ATL,63,57,Full Game,POINTS SPREADS,04/26 10:27 AM,,-5.5,"-109 61%
+                        "
+20170426,consensus,ATL,WAS,37,43,Full Game,POINTS SPREADS,04/26 10:34 AM,,+6,"-108 46%
+                        "
+20170426,consensus,WAS,ATL,63,57,Full Game,POINTS SPREADS,04/26 10:34 AM,,-6,"-102 54%
+                        "
+20170426,consensus,ATL,WAS,37,43,Full Game,POINTS SPREADS,04/26 05:20 PM,,+6,"-103 47%
+                        "
+20170426,consensus,WAS,ATL,63,57,Full Game,POINTS SPREADS,04/26 05:20 PM,,-6,"-107 53%
+                        "
+20170426,consensus,ATL,WAS,37,43,Full Game,POINTS SPREADS,04/26 05:58 PM,,+6,"-101 46%
+                        "
+20170426,consensus,WAS,ATL,63,57,Full Game,POINTS SPREADS,04/26 05:58 PM,,-6,"-109 54%
+                        "
+20170426,consensus,ATL,WAS,37,43,Full Game,POINTS SPREADS,04/26 06:10 PM,,+6,"-110 47%
+                        "
+20170426,consensus,WAS,ATL,63,57,Full Game,POINTS SPREADS,04/26 06:10 PM,,-6,"-110 53%
+                        "
+20170426,consensus,ATL,WAS,37,43,Full Game,MONEY LINES,04/26 01:02 AM,,, 
+20170426,consensus,WAS,ATL,63,57,Full Game,MONEY LINES,04/26 01:02 AM,,,"-210 62%
+                        "
+20170426,consensus,ATL,WAS,37,43,Full Game,MONEY LINES,04/26 07:38 AM,,, 
+20170426,consensus,WAS,ATL,63,57,Full Game,MONEY LINES,04/26 07:38 AM,,,"-225 59%
+                        "
+20170426,consensus,ATL,WAS,37,43,Full Game,MONEY LINES,04/26 10:27 AM,,, 
+20170426,consensus,WAS,ATL,63,57,Full Game,MONEY LINES,04/26 10:27 AM,,,"-235 57%
+                        "
+20170426,consensus,ATL,WAS,37,43,Full Game,MONEY LINES,04/26 05:20 PM,,, 
+20170426,consensus,WAS,ATL,63,57,Full Game,MONEY LINES,04/26 05:20 PM,,,"-250 57%
+                        "
+20170426,consensus,ATL,WAS,37,43,Full Game,MONEY LINES,04/26 06:10 PM,,, 
+20170426,consensus,WAS,ATL,63,57,Full Game,MONEY LINES,04/26 06:10 PM,,,"-260 57%
+                        "
+20170426,consensus,ATL,WAS,37,43,Full Game,TOTAL,04/25 03:32 PM,over,212.5,"-108 55%
+                        "
+20170426,consensus,WAS,ATL,63,57,Full Game,TOTAL,04/25 03:32 PM,under,212.5,"-102 45%
+                        "
+20170426,consensus,ATL,WAS,37,43,Full Game,TOTAL,04/26 03:59 PM,over,212,"-105 56%
+                        "
+20170426,consensus,WAS,ATL,63,57,Full Game,TOTAL,04/26 03:59 PM,under,212,"-105 44%
+                        "
+20170426,consensus,ATL,WAS,37,43,Full Game,TOTAL,04/26 05:58 PM,over,211.5,"-107 56%
+                        "
+20170426,consensus,WAS,ATL,63,57,Full Game,TOTAL,04/26 05:58 PM,under,211.5,"-103 44%
+                        "
+20170426,consensus,ATL,WAS,37,43,Full Game,TOTAL,04/26 06:10 PM,over,211.5,"-110 56%
+                        "
+20170426,consensus,WAS,ATL,63,57,Full Game,TOTAL,04/26 06:10 PM,under,211.5,"-110 44%
+                        "
+20170426,consensus,CHC,BOS,42,38,Full Game,POINTS SPREADS,04/24 11:47 AM,,+8,"-107 50%
+                        "
+20170426,consensus,BOS,CHC,58,62,Full Game,POINTS SPREADS,04/24 11:47 AM,,-8,"-103 50%
+                        "
+20170426,consensus,CHC,BOS,42,38,Full Game,POINTS SPREADS,04/25 12:39 AM,,+8,"-105 40%
+                        "
+20170426,consensus,BOS,CHC,58,62,Full Game,POINTS SPREADS,04/25 12:39 AM,,-8,"-105 60%
+                        "
+20170426,consensus,CHC,BOS,42,38,Full Game,POINTS SPREADS,04/25 04:12 PM,,+8,"-102 47%
+                        "
+20170426,consensus,BOS,CHC,58,62,Full Game,POINTS SPREADS,04/25 04:12 PM,,-8,"-108 53%
+                        "
+20170426,consensus,CHC,BOS,42,38,Full Game,POINTS SPREADS,04/25 11:32 PM,,+7.5,"-105 52%
+                        "
+20170426,consensus,BOS,CHC,58,62,Full Game,POINTS SPREADS,04/25 11:32 PM,,-7.5,"-105 48%
+                        "
+20170426,consensus,CHC,BOS,42,38,Full Game,POINTS SPREADS,04/26 11:38 AM,,+7.5,"-102 49%
+                        "
+20170426,consensus,BOS,CHC,58,62,Full Game,POINTS SPREADS,04/26 11:38 AM,,-7.5,"-108 51%
+                        "
+20170426,consensus,CHC,BOS,42,38,Full Game,POINTS SPREADS,04/26 05:16 PM,,+8,"-108 48%
+                        "
+20170426,consensus,BOS,CHC,58,62,Full Game,POINTS SPREADS,04/26 05:16 PM,,-8,"-102 52%
+                        "
+20170426,consensus,CHC,BOS,42,38,Full Game,POINTS SPREADS,04/26 06:14 PM,,+7.5,"-102 46%
+                        "
+20170426,consensus,BOS,CHC,58,62,Full Game,POINTS SPREADS,04/26 06:14 PM,,-7.5,"-108 54%
+                        "
+20170426,consensus,CHC,BOS,42,38,Full Game,POINTS SPREADS,04/26 08:18 PM,,+8,"-105 46%
+                        "
+20170426,consensus,BOS,CHC,58,62,Full Game,POINTS SPREADS,04/26 08:18 PM,,-8,"-105 54%
+                        "
+20170426,consensus,CHC,BOS,42,38,Full Game,POINTS SPREADS,04/26 08:26 PM,,+8,"-109 46%
+                        "
+20170426,consensus,BOS,CHC,58,62,Full Game,POINTS SPREADS,04/26 08:26 PM,,-8,"-101 54%
+                        "
+20170426,consensus,CHC,BOS,42,38,Full Game,POINTS SPREADS,04/26 08:35 PM,,+7.5,"-103 45%
+                        "
+20170426,consensus,BOS,CHC,58,62,Full Game,POINTS SPREADS,04/26 08:35 PM,,-7.5,"-107 55%
+                        "
+20170426,consensus,CHC,BOS,42,38,Full Game,POINTS SPREADS,04/26 08:46 PM,,+7.5,"-110 45%
+                        "
+20170426,consensus,BOS,CHC,58,62,Full Game,POINTS SPREADS,04/26 08:46 PM,,-7.5,"-110 55%
+                        "
+20170426,consensus,CHC,BOS,42,38,Full Game,MONEY LINES,04/26 02:01 AM,,, 
+20170426,consensus,BOS,CHC,58,62,Full Game,MONEY LINES,04/26 02:01 AM,,,"-320 63%
+                        "
+20170426,consensus,CHC,BOS,42,38,Full Game,MONEY LINES,04/26 05:16 PM,,, 
+20170426,consensus,BOS,CHC,58,62,Full Game,MONEY LINES,04/26 05:16 PM,,,"-340 61%
+                        "
+20170426,consensus,CHC,BOS,42,38,Full Game,MONEY LINES,04/26 06:14 PM,,, 
+20170426,consensus,BOS,CHC,58,62,Full Game,MONEY LINES,04/26 06:14 PM,,,"-340 60%
+                        "
+20170426,consensus,CHC,BOS,42,38,Full Game,MONEY LINES,04/26 08:18 PM,,, 
+20170426,consensus,BOS,CHC,58,62,Full Game,MONEY LINES,04/26 08:18 PM,,,"-365 59%
+                        "
+20170426,consensus,CHC,BOS,42,38,Full Game,MONEY LINES,04/26 08:26 PM,,, 
+20170426,consensus,BOS,CHC,58,62,Full Game,MONEY LINES,04/26 08:26 PM,,,"-355 58%
+                        "
+20170426,consensus,CHC,BOS,42,38,Full Game,MONEY LINES,04/26 08:35 PM,,, 
+20170426,consensus,BOS,CHC,58,62,Full Game,MONEY LINES,04/26 08:35 PM,,,"-340 58%
+                        "
+20170426,consensus,CHC,BOS,42,38,Full Game,MONEY LINES,04/26 08:46 PM,,, 
+20170426,consensus,BOS,CHC,58,62,Full Game,MONEY LINES,04/26 08:46 PM,,,"-370 58%
+                        "
+20170426,consensus,CHC,BOS,42,38,Full Game,TOTAL,04/26 01:00 AM,over,202.5,"-104 67%
+                        "
+20170426,consensus,BOS,CHC,58,62,Full Game,TOTAL,04/26 01:00 AM,under,202.5,"-106 33%
+                        "
+20170426,consensus,CHC,BOS,42,38,Full Game,TOTAL,04/26 08:19 AM,over,203,"-105 68%
+                        "
+20170426,consensus,BOS,CHC,58,62,Full Game,TOTAL,04/26 08:19 AM,under,203,"-105 32%
+                        "
+20170426,consensus,CHC,BOS,42,38,Full Game,TOTAL,04/26 11:38 AM,over,202,"-105 70%
+                        "
+20170426,consensus,BOS,CHC,58,62,Full Game,TOTAL,04/26 11:38 AM,under,202,"-105 30%
+                        "
+20170426,consensus,CHC,BOS,42,38,Full Game,TOTAL,04/26 05:11 PM,over,202.5,"-105 68%
+                        "
+20170426,consensus,BOS,CHC,58,62,Full Game,TOTAL,04/26 05:11 PM,under,202.5,"-105 32%
+                        "
+20170426,consensus,CHC,BOS,42,38,Full Game,TOTAL,04/26 06:14 PM,over,203,"-103 66%
+                        "
+20170426,consensus,BOS,CHC,58,62,Full Game,TOTAL,04/26 06:14 PM,under,203,"-107 34%
+                        "
+20170426,consensus,CHC,BOS,42,38,Full Game,TOTAL,04/26 07:02 PM,over,203,"-109 66%
+                        "
+20170426,consensus,BOS,CHC,58,62,Full Game,TOTAL,04/26 07:02 PM,under,203,"-101 34%
+                        "
+20170426,consensus,CHC,BOS,42,38,Full Game,TOTAL,04/26 08:09 PM,over,203.5,"-104 66%
+                        "
+20170426,consensus,BOS,CHC,58,62,Full Game,TOTAL,04/26 08:09 PM,under,203.5,"-106 34%
+                        "
+20170426,consensus,CHC,BOS,42,38,Full Game,TOTAL,04/26 08:18 PM,over,204,"-105 66%
+                        "
+20170426,consensus,BOS,CHC,58,62,Full Game,TOTAL,04/26 08:18 PM,under,204,"-105 34%
+                        "
+20170426,consensus,CHC,BOS,42,38,Full Game,TOTAL,04/26 08:28 PM,over,204.5,"-105 66%
+                        "
+20170426,consensus,BOS,CHC,58,62,Full Game,TOTAL,04/26 08:28 PM,under,204.5,"-105 34%
+                        "
+20170426,consensus,CHC,BOS,42,38,Full Game,TOTAL,04/26 08:35 PM,over,204.5,"-109 65%
+                        "
+20170426,consensus,BOS,CHC,58,62,Full Game,TOTAL,04/26 08:35 PM,under,204.5,"-101 35%
+                        "
+20170426,consensus,CHC,BOS,42,38,Full Game,TOTAL,04/26 08:46 PM,over,205.5,"-110 65%
+                        "
+20170426,consensus,BOS,CHC,58,62,Full Game,TOTAL,04/26 08:46 PM,under,205.5,"-110 35%
+                        "
+20170427,consensus,TOR,MIL,53,45,Full Game,POINTS SPREADS,04/24 11:22 PM,,+1,"-105 100%
+                        "
+20170427,consensus,MIL,TOR,47,55,Full Game,POINTS SPREADS,04/24 11:22 PM,,-1,"-105 0%
+                        "
+20170427,consensus,TOR,MIL,53,45,Full Game,POINTS SPREADS,04/25 12:04 AM,,+1.5,"-105 90%
+                        "
+20170427,consensus,MIL,TOR,47,55,Full Game,POINTS SPREADS,04/25 12:04 AM,,-1.5,"-105 10%
+                        "
+20170427,consensus,TOR,MIL,53,45,Full Game,POINTS SPREADS,04/25 10:56 AM,,+1.5,"-102 59%
+                        "
+20170427,consensus,MIL,TOR,47,55,Full Game,POINTS SPREADS,04/25 10:56 AM,,-1.5,"-108 41%
+                        "
+20170427,consensus,TOR,MIL,53,45,Full Game,POINTS SPREADS,04/26 05:57 PM,,+1.5,"-107 49%
+                        "
+20170427,consensus,MIL,TOR,47,55,Full Game,POINTS SPREADS,04/26 05:57 PM,,-1.5,"-103 51%
+                        "
+20170427,consensus,TOR,MIL,53,45,Full Game,POINTS SPREADS,04/27 12:10 PM,,+1,"-105 48%
+                        "
+20170427,consensus,MIL,TOR,47,55,Full Game,POINTS SPREADS,04/27 12:10 PM,,-1,"-105 52%
+                        "
+20170427,consensus,TOR,MIL,53,45,Full Game,POINTS SPREADS,04/27 12:29 PM,,+1,"-107 48%
+                        "
+20170427,consensus,MIL,TOR,47,55,Full Game,POINTS SPREADS,04/27 12:29 PM,,-1,"-103 52%
+                        "
+20170427,consensus,TOR,MIL,53,45,Full Game,MONEY LINES,04/25 12:04 AM,,, 
+20170427,consensus,MIL,TOR,47,55,Full Game,MONEY LINES,04/25 12:04 AM,,,"-120 36%
+                        "
+20170427,consensus,TOR,MIL,53,45,Full Game,MONEY LINES,04/26 05:58 PM,,, 
+20170427,consensus,MIL,TOR,47,55,Full Game,MONEY LINES,04/26 05:58 PM,,,"-118 41%
+                        "
+20170427,consensus,TOR,MIL,53,45,Full Game,MONEY LINES,04/27 12:10 PM,,, 
+20170427,consensus,MIL,TOR,47,55,Full Game,MONEY LINES,04/27 12:10 PM,,,"-113 41%
+                        "
+20170427,consensus,TOR,MIL,53,45,Full Game,MONEY LINES,04/27 12:29 PM,,, 
+20170427,consensus,MIL,TOR,47,55,Full Game,MONEY LINES,04/27 12:29 PM,,,"-112 42%
+                        "
+20170427,consensus,TOR,MIL,53,45,Full Game,TOTAL,04/24 11:22 PM,over,194.5,"-105 100%
+                        "
+20170427,consensus,MIL,TOR,47,55,Full Game,TOTAL,04/24 11:22 PM,under,194.5,"-105 0%
+                        "
+20170427,consensus,TOR,MIL,53,45,Full Game,TOTAL,04/25 08:12 AM,over,195.5,"-105 100%
+                        "
+20170427,consensus,MIL,TOR,47,55,Full Game,TOTAL,04/25 08:12 AM,under,195.5,"-105 0%
+                        "
+20170427,consensus,TOR,MIL,53,45,Full Game,TOTAL,04/26 03:55 PM,over,195,"-105 100%
+                        "
+20170427,consensus,MIL,TOR,47,55,Full Game,TOTAL,04/26 03:55 PM,under,195,"-105 0%
+                        "
+20170427,consensus,TOR,MIL,53,45,Full Game,TOTAL,04/26 05:58 PM,over,195,"-102 100%
+                        "
+20170427,consensus,MIL,TOR,47,55,Full Game,TOTAL,04/26 05:58 PM,under,195,"-108 0%
+                        "
+20170427,consensus,TOR,MIL,53,45,Full Game,TOTAL,04/26 11:54 PM,over,194.5,"-105 52%
+                        "
+20170427,consensus,MIL,TOR,47,55,Full Game,TOTAL,04/26 11:54 PM,under,194.5,"-105 48%
+                        "
+20170427,consensus,SAS,MEM,72,78,Full Game,POINTS SPREADS,04/26 09:58 AM,,-4,"-105 59%
+                        "
+20170427,consensus,MEM,SAS,28,22,Full Game,POINTS SPREADS,04/26 09:58 AM,,4,"-105 41%
+                        "
+20170427,consensus,SAS,MEM,72,78,Full Game,POINTS SPREADS,04/27 09:56 AM,,-4,"-109 60%
+                        "
+20170427,consensus,MEM,SAS,28,22,Full Game,POINTS SPREADS,04/27 09:56 AM,,4,"-101 40%
+                        "
+20170427,consensus,SAS,MEM,72,78,Full Game,POINTS SPREADS,04/27 10:24 AM,,-4.5,"-102 60%
+                        "
+20170427,consensus,MEM,SAS,28,22,Full Game,POINTS SPREADS,04/27 10:24 AM,,4.5,"-108 40%
+                        "
+20170427,consensus,SAS,MEM,72,78,Full Game,POINTS SPREADS,04/27 12:12 PM,,-4.5,"-108 59%
+                        "
+20170427,consensus,MEM,SAS,28,22,Full Game,POINTS SPREADS,04/27 12:12 PM,,4.5,"-102 41%
+                        "
+20170427,consensus,SAS,MEM,72,78,Full Game,MONEY LINES,04/26 09:59 AM,,,"-170 67%
+                        "
+20170427,consensus,MEM,SAS,28,22,Full Game,MONEY LINES,04/26 09:59 AM,,, 
+20170427,consensus,SAS,MEM,72,78,Full Game,MONEY LINES,04/26 05:58 PM,,,"-172 55%
+                        "
+20170427,consensus,MEM,SAS,28,22,Full Game,MONEY LINES,04/26 05:58 PM,,, 
+20170427,consensus,SAS,MEM,72,78,Full Game,MONEY LINES,04/27 07:13 AM,,,"-171 52%
+                        "
+20170427,consensus,MEM,SAS,28,22,Full Game,MONEY LINES,04/27 07:13 AM,,, 
+20170427,consensus,SAS,MEM,72,78,Full Game,MONEY LINES,04/27 09:56 AM,,,"-178 52%
+                        "
+20170427,consensus,MEM,SAS,28,22,Full Game,MONEY LINES,04/27 09:56 AM,,, 
+20170427,consensus,SAS,MEM,72,78,Full Game,MONEY LINES,04/27 10:26 AM,,,"-185 46%
+                        "
+20170427,consensus,MEM,SAS,28,22,Full Game,MONEY LINES,04/27 10:26 AM,,, 
+20170427,consensus,SAS,MEM,72,78,Full Game,TOTAL,04/26 09:59 AM,over,190,"-105 67%
+                        "
+20170427,consensus,MEM,SAS,28,22,Full Game,TOTAL,04/26 09:59 AM,under,190,"-105 33%
+                        "
+20170427,consensus,SAS,MEM,72,78,Full Game,TOTAL,04/27 07:13 AM,over,190,"-102 67%
+                        "
+20170427,consensus,MEM,SAS,28,22,Full Game,TOTAL,04/27 07:13 AM,under,190,"-108 33%
+                        "
+20170427,consensus,SAS,MEM,72,78,Full Game,TOTAL,04/27 08:49 AM,over,189.5,"-102 67%
+                        "
+20170427,consensus,MEM,SAS,28,22,Full Game,TOTAL,04/27 08:49 AM,under,189.5,"-108 33%
+                        "
+20170427,consensus,SAS,MEM,72,78,Full Game,TOTAL,04/27 09:56 AM,over,189.5,"-105 67%
+                        "
+20170427,consensus,MEM,SAS,28,22,Full Game,TOTAL,04/27 09:56 AM,under,189.5,"-105 33%
+                        "
+20170428,consensus,LAC,UTA,49,68,Full Game,POINTS SPREADS,04/26 09:59 AM,,+5.5,"-102 44%
+                        "
+20170428,consensus,UTA,LAC,51,32,Full Game,POINTS SPREADS,04/26 09:59 AM,,-5.5,"-108 56%
+                        "
+20170428,consensus,LAC,UTA,49,68,Full Game,POINTS SPREADS,04/27 12:37 PM,,+5.5,"-101 44%
+                        "
+20170428,consensus,UTA,LAC,51,32,Full Game,POINTS SPREADS,04/27 12:37 PM,,-5.5,"-109 56%
+                        "
+20170428,consensus,LAC,UTA,49,68,Full Game,MONEY LINES,04/26 09:59 AM,,, 
+20170428,consensus,UTA,LAC,51,32,Full Game,MONEY LINES,04/26 09:59 AM,,,"-230 42%
+                        "
+20170428,consensus,LAC,UTA,49,68,Full Game,TOTAL,04/26 10:06 AM,over,192.5,"-105 100%
+                        "
+20170428,consensus,UTA,LAC,51,32,Full Game,TOTAL,04/26 10:06 AM,under,192.5,"-105 0%
+                        "
+20170428,consensus,LAC,UTA,49,68,Full Game,TOTAL,04/27 12:37 PM,over,192.5,"-108 100%
+                        "
+20170428,consensus,UTA,LAC,51,32,Full Game,TOTAL,04/27 12:37 PM,under,192.5,"-102 0%
+                        "
+20170428,consensus,WAS,ATL,44,5,Full Game,POINTS SPREADS,04/27 12:12 AM,,+3,"-110 25%
+                        "
+20170428,consensus,ATL,WAS,56,95,Full Game,POINTS SPREADS,04/27 12:12 AM,,-3,"-110 75%
+                        "
+20170428,consensus,WAS,ATL,44,5,Full Game,POINTS SPREADS,04/27 10:04 AM,,+3,"-102 11%
+                        "
+20170428,consensus,ATL,WAS,56,95,Full Game,POINTS SPREADS,04/27 10:04 AM,,-3,"-108 89%
+                        "
+20170428,consensus,WAS,ATL,44,5,Full Game,MONEY LINES,04/27 12:12 AM,,, 
+20170428,consensus,ATL,WAS,56,95,Full Game,MONEY LINES,04/27 12:12 AM,,,"-155 13%
+                        "
+20170428,consensus,WAS,ATL,44,5,Full Game,MONEY LINES,04/27 10:04 AM,,, 
+20170428,consensus,ATL,WAS,56,95,Full Game,MONEY LINES,04/27 10:04 AM,,,"-150 11%
+                        "
