@@ -1,0 +1,4 @@
+timestamp,date,time,team,opp_team,spread_percentage_sbr_team,spread_percentage_sbr_opp,moneyline_team,moneyline_opp,total_team,total_opp,spread_percentage_sportsplays_team,spread_percentage_sportsplays_opp,spread_percentage_vegas_team,spread_percentage_vegas_opp,spread_sbr_team,spread_sbr_opp
+1493658720,20170502,8:00p,WAS,BOS,-105 55%,-105 45%,+195 61%,-215 39%,-102 52%,-108 48%,50,50,47,53,+5,-5
+1493694300,20170503,7:00p,TOR,CLE,-105 53%,-105 47%,+305 6%,-335 94%,-105 67%,-105 33%,36,64,13,87,+7.5,-7.5
+1493740140,20170503,9:30p,HOU,SAS,-102 50%,-108 50%,+205 47%,-225 53%,,,44,56,50,50,+5,-5
